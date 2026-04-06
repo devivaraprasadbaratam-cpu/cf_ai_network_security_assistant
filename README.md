@@ -1,5 +1,6 @@
 # AI Network Security Assistant 🔐
-
+## 🌐 Live Demo
+https://cf_ai_network_security_assistant.deviprasad.workers.dev
 ## Overview
 This project is an AI-powered tool that analyzes network logs and detects suspicious activity. It uses Cloudflare Workers AI (Llama 3) to provide explanations and security recommendations.
 
